@@ -1,0 +1,1 @@
+I used AI solely to clarify the intuition and formula for LinUCB upper confidence bounds (how the estimate and variance terms are combined). I implemented the code and completed the rest of the assignment myself.
